@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viraj-Tank
-- 👀 I’m Love to Code
-- 🌱 I’m currently learning Flutter
+- 👀 I Love to Code
+- 🌱 I’m currently open to learning 😎
 - 📫 How to reach me ...
 linkedin.com/in/virajtank/
 
