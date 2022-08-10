@@ -30,7 +30,8 @@
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8035240522588030583)
 
 ## 💻 devices that i use
-<img src="https://img.shields.io/badge/Apple-MacBook_Air_M1-333333?style=for-the-badge&logo=apple&logoColor=white"/><br><img src="https://img.shields.io/badge/Android%20Device-333333?style=for-the-badge&logo=android&logoColor=white"/><br><img src="https://img.shields.io/badge/Apple-iPhone-333333?style=for-the-badge&logo=apple&logoColor=white"/><br><img src="https://img.shields.io/badge/High%20End%20PC-333333?style=for-the-badge&logo=windows&logoColor=white"/><br><img src="https://img.shields.io/badge/Samsung%2010%20Inch%20Tab-333333?style=for-the-badge&logo=android&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Apple-MacBook_Air_M1-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iPhone-333333?style=for-the-badge&logoColor=white"/><br> 
+<img src="https://img.shields.io/badge/Android-Headset-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/10%20Inch%20Tab-333333?style=for-the-badge&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/High%20End%20PC-333333?style=for-the-badge&logo=windows&logoColor=white"/><br>
 
 </div>
