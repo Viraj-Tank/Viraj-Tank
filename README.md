@@ -31,7 +31,7 @@
 
 ## 💻 devices that i use
 <img src="https://img.shields.io/badge/Apple-MacBook_Air_M1-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iPhone-333333?style=for-the-badge&logoColor=white"/><br> 
-<img src="https://img.shields.io/badge/Android-Headset-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/10%20Inch%20Tab-333333?style=for-the-badge&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Android-Headset-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/10%20Inch%20Tab-333333?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Wear%20OS%20Smart%20Watch-333333?style=for-the-badge&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/High%20End%20PC-333333?style=for-the-badge&logo=windows&logoColor=white"/><br>
 
 </div>
