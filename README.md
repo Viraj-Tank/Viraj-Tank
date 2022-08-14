@@ -4,11 +4,11 @@
          width="30" /> i'm Viraj Tank</h3> -->
 # #️⃣ about me :
 - 🌱 pursuing SDE.
-- 😏 fanboy CRED.
+- 😏 CRED fanboy.
 - 💫 loves to code and try to solve logical problems.
 
 ## 💻 tech stack and tools
-![Fanboy CRED](https://img.shields.io/badge/-Fanboy%20CRED%20%F0%9F%92%96-white?style=for-the-badge&logo=cred&logoColor=white&labelColor=000000)  
+![CRED fanboy](https://img.shields.io/badge/-CRED%20fanboy%20%F0%9F%92%96-white?style=for-the-badge&logo=cred&logoColor=white&labelColor=000000)  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-C512E2?style=for-the-badge&logo=kotlin&logoColor=C512E2&labelColor=282828) 
 ![Flutter](https://img.shields.io/badge/-Flutter-31B9F5?style=for-the-badge&logo=flutter&logoColor=31B9F5&labelColor=282828) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
