@@ -22,9 +22,9 @@
 
 ## 🌐 socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/virajtank) 
-<!--[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ivirajtank/) -->
 [![Twitter](https://img.shields.io/twitter/follow/i_virajtank?logo=Twitter&style=for-the-badge)](https://twitter.com/i_virajtank) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ivirajtank)
+<!--[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ivirajtank/) -->
 
 ## 🛒 store
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8035240522588030583)
