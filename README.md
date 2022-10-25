@@ -3,6 +3,7 @@
          height="30"
          width="30" /> i'm Viraj Tank</h3> -->
 # #️⃣ about me :
+- 💪 Enthusiastic Learner! always focused on maximizing my learning experiences
 - 🌱 pursuing SDE.
 - 😏 CRED fanboy.
 - 💫 loves to code and learn new things.
