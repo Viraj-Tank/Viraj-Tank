@@ -10,13 +10,14 @@
 ## 💻 tech stack and tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-C512E2?style=for-the-badge&logo=kotlin&logoColor=C512E2&labelColor=282828) 
 ![Flutter](https://img.shields.io/badge/-Flutter-31B9F5?style=for-the-badge&logo=flutter&logoColor=31B9F5&labelColor=282828) 
+![Swift](https://img.shields.io/badge/-Swift-FF6600?style=for-the-badge&logo=swift&logoColor=FF6600&labelColor=282828)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23EE1F25.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23EE1F25.svg?style=for-the-badge&logo=java&logoColor=white)<br>
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DBB84?style=for-the-badge&logo=android-studio&logoColor=white)
+![XCode](https://img.shields.io/badge/XCode-0078D4?style=for-the-badge&logo=xcode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCB2D.svg?style=for-the-badge&logo=firebase&logoColor=F58410) 
-![Git](https://img.shields.io/badge/GIT-0D2636?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23A259FF.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-0D2636?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🌐 socials
