@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/GIT-0D2636?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🌐 socials
+## 🌐 connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/virajtank) 
 <!-- [![Twitter](https://img.shields.io/twitter/follow/i_virajtank?logo=Twitter&style=for-the-badge)](https://twitter.com/i_virajtank)  -->
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ivirajtank) -->
