@@ -4,8 +4,6 @@
          width="30" /> i'm Viraj Tank</h3> -->
 # #️⃣ about me :
 💪 Enthusiastic Learner! always focused on maximizing my learning experiences<br>
-🌱 currently learning SwiftUI.<br>
-💫 loves to code.<br>
 🤝 possessing a strong willingness to learn about businesses/entrepreneurship<br>
 ⏱️ most valuable intangible asset? → TIME! <br>
 
