@@ -3,11 +3,11 @@
          height="30"
          width="30" /> i'm Viraj Tank</h3> -->
 # #️⃣ about me :
-💪 Enthusiastic Learner! always focused on maximizing my learning experiences
-🌱 currently learning SwiftUI.
-💫 loves to code.
-🤝 possessing a strong willingness to learn about businesses/entrepreneurship
-⏱️ most valuable intangible asset? → TIME! 
+💪 Enthusiastic Learner! always focused on maximizing my learning experiences<br>
+🌱 currently learning SwiftUI.<br>
+💫 loves to code.<br>
+🤝 possessing a strong willingness to learn about businesses/entrepreneurship<br>
+⏱️ most valuable intangible asset? → TIME! <br>
 
 ## 💻 tech stack and tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-C512E2?style=for-the-badge&logo=kotlin&logoColor=C512E2&labelColor=282828) 
