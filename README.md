@@ -11,6 +11,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-C512E2?style=for-the-badge&logo=kotlin&logoColor=C512E2&labelColor=282828) 
 ![Flutter](https://img.shields.io/badge/-Flutter-31B9F5?style=for-the-badge&logo=flutter&logoColor=31B9F5&labelColor=282828) 
 ![Swift](https://img.shields.io/badge/-Swift-FF6600?style=for-the-badge&logo=swift&logoColor=FF6600&labelColor=282828)
+![NodeJS](https://img.shields.io/badge/-Node-43853D?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=282828)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23EE1F25.svg?style=for-the-badge&logo=java&logoColor=white)<br>
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DBB84?style=for-the-badge&logo=android-studio&logoColor=white)
